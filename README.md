@@ -13,9 +13,7 @@ React: The core JavaScript library for building the user interface.
 [Backend Technology]
 [Styling Library]: (e.g., CSS, Sass, Tailwind CSS) for modern styling.
 [Other Libraries]: (e.g., React Router for navigation, Redux for state management).
-# 🚀 Live Demo
-Play with the live version of the app here: https://your-app-demo-link.vercel.app
-Note: Replace the URL above with the actual link from your deployment.
+
 # 🛠️ Installation and Setup
 To run this project locally, follow these steps:
 Clone the repository:
