@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+  color: #222020;
+}
+.recipe-list{
+  width: 100%;
+  height: 75%;
+  display: flex;
+  justify-self: center;
+  flex-direction: column;
+  padding: 2rem;
+  overflow: hidden;
+}
+.recipe-list h3{
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+.recipe-list ol{
+  padding: 0;
+  margin: 0;
+}
