@@ -18,7 +18,7 @@ Clone the repository:
 sh
 git clone https://github.com/techgit41/Chief-App
 
-Use code with caution.
+
 
 Navigate to the project directory:
 
