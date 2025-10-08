@@ -3,16 +3,14 @@ An innovative recipe and meal-planning app built with React that helps users dis
 # ✨ Features
 Recipe Discovery: Browse and search for recipes based on ingredients, cuisine, or meal type.
 Meal Planning: Create a weekly meal plan by adding recipes to a calendar.
-Favorites: Save and organize your favorite recipes for easy access.
-User Profiles: Create an account to manage and share your personal recipes.
 Recipe Sharing: Contribute to the community by uploading your own recipes with photos and instructions.
 Responsive Design: Enjoy a seamless experience on any device, from desktop to mobile.
 # 💻 Technologies Used
 React: The core JavaScript library for building the user interface.
 [External API]: (TheMealDB, Spoonacular) to fetch and display recipe data.
 [Backend Technology]
-[Styling Library]: (e.g., CSS, Sass, Tailwind CSS) for modern styling.
-[Other Libraries]: (e.g., React Router for navigation, Redux for state management).
+[Styling Library]:  CSS, Tailwind CSS.
+[Other Libraries]:  React Router for navigation, Redux for state management.
 
 # 🛠️ Installation and Setup
 To run this project locally, follow these steps:
@@ -23,17 +21,17 @@ git clone https://github.com/techgit41/Chief-App
 Use code with caution.
 
 Navigate to the project directory:
-sh
+
 cd https://github.com/techgit41/Chief-App
-Use code with caution.
+
 
 Install dependencies:
-sh
+
 npm install
-Use code with caution.
+
 
 Start the development server:
-sh
+
 npm start
 Use code with caution.
 
