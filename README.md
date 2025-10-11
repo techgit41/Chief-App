@@ -15,7 +15,7 @@ React: The core JavaScript library for building the user interface.
 # 🛠️ Installation and Setup
 To run this project locally, follow these steps:
 Clone the repository:
-sh
+```bash
 git clone https://github.com/techgit41/Chief-App
 
 
